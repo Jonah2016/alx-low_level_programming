@@ -18,8 +18,11 @@ int main(void)
 		if (n != 57)
 
 		{	
+	
 			putchar(',');
+			
 			putchar(' ');
+	
 		}
 
 	}
@@ -27,4 +30,5 @@ int main(void)
 		putchar('\n');
 
 	return (0);
+
 }
