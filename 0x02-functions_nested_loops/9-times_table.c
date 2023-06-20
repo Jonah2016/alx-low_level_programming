@@ -20,12 +20,12 @@ void times_table(void)
 			{
 				_putchar(',');
 				_putchar(' ');
-		
+
 				if (k < 10)
 				{
 					_putchar(' ');
 				}
-	       			else
+				else
 				{
 					_putchar((k / 10) + '0');
 				}
