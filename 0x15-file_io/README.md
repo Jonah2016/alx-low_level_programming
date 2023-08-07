@@ -1,7 +1,7 @@
 - man or help:
 open
 close
-read
+-read
 write
 dprintf
 
