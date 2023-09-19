@@ -8,5 +8,6 @@
  */
 int main(void)
 {
-	printf("my function to create a shared file");
+    printf("%d\n", _strlen("My Dyn Lib"));
+    return (0);
 }
